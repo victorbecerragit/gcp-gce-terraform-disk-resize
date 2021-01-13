@@ -1,0 +1,6 @@
+*.json
+*.retry
+.env
+.terraform
+*.tfstate*
+*.plan
